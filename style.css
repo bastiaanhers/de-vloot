@@ -1,0 +1,73 @@
+header{
+	background: url("css/grfx/header.jpg");
+	background-repeat: no-repeat;
+	background-position: center ;
+	margin-top: -27px;
+	height: 250px;
+}
+main{
+	margin-top: -20px;
+	font-family: verdana;
+	padding: 0px 592px 0px 360px;
+	width: 760px;
+}
+p{
+	font-size: 17px;
+}
+li{
+	display: inline;
+	padding: 5px 10px;
+}
+h1{
+	font-size: 40px;
+}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+.streep{
+	height:300px;
+	width: 1920px;
+	margin-left: -560px;
+	position: absolute;
+	background-color: #A9D5D4
+}
+.top-menu{
+	color: white;
+	font-size: 20px;
+	position: static;
+	margin-top: 150px;
+	margin-left: 350px;
+}
+.top-left{
+	padding-right: 20px;
+	padding-bottom:35px;
+	float: left;
+}
+.botom-right{
+	padding-right: 20px;
+	padding-bottom:35px;
+	float: right;
+
+}
+.text{
+	z-index: 10;
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 10px;
+	margin-bottom: -100px;
+	width: 760px;
+	position: relative;
+
+}
+.hdr1{
+	margin-left: 400px;
+}
+.hdr2{
+	margin-top: -30px;
+}
+.li-color{
+	color: #A9D5D4;
+}
